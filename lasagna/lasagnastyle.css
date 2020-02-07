@@ -1,0 +1,65 @@
+/*CSS DOCUMENT*/
+@import url('https://fonts.googleapis.com/css?family=Nunito|Oswald:300|PT+Sans+Narrow&display=swap');
+
+body{
+background-color: rgb(225, 225, 225);
+}
+
+h1{
+text-align: center;
+font-size: 4.0em;
+font-family: 'Oswald', sans-serif;
+margin-bottom: 0;
+margin-top: 0;
+color: rgb(0, 51, 102);
+}
+
+h2{
+text-align: center;
+font-size: 2.2em;
+font-style: italic;
+font-family: 'Oswald', sans-serif;
+margin-top: 0;
+}
+
+h3{
+font-family: 'PT Sans Narrow', sans-serif;
+text-transform: uppercase;
+font-size: 1.5em;
+margin-left: 1em;
+color: rgb(0, 51, 102);
+}
+
+h6{
+color: rgb(0, 51, 102);
+text-align:left;
+margin-left: 2.5em;
+}
+
+img {
+width: 60%;
+border-style: double;
+border-spacing: inherit;
+}
+
+div.introimage {
+text-align: center;
+}
+
+div.ingredients {
+margin-right: 2.5em;
+font-family: 'Nunito', sans-serif;
+}
+
+div.directions {
+font-family: 'Nunito', sans-serif;
+font-size: 1em;
+margin-right: 10em;
+}
+
+p {
+text-align: center;
+font-family: 'Nunito', sans-serif;
+margin-left: 1em;
+color: rgb(0, 51, 102);
+}
