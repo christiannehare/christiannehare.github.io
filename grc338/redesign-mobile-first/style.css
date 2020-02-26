@@ -1,0 +1,108 @@
+/*CSS DOCUMENT*/
+@import url('https://fonts.googleapis.com/css?family=Lobster|Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Fredericka+the+Great|Spartan&display=swap');
+
+body {
+    background-color: rgb(226, 249, 255);
+}
+
+.home-header {
+    text-align: center;
+    clear: both;   
+}
+
+
+.home-header h2 {
+   font-family: 'Fredericka the Great';
+    text-align: center;
+    color: rgb(52, 95, 108);
+}
+
+.home-header h3 {
+    font-family: 'Fredericka the Great';
+}
+
+.home-header h1 {
+    font-family: 'Lobster';
+    text-align: center;
+    color: rgb(52, 95, 108);
+    font-size: 3em;
+}
+
+.home-header p {
+    font-family: 'Abhaya Libre';
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.mainmenu {
+    font-family: 'Fredericka the Great';
+
+    }
+
+.mainmenu ul {
+    list-style-type: none;
+    padding: 0; 
+}
+
+.mainmenu a {
+    text-decoration: none;
+    color: rgb(52, 95, 108);
+}
+
+.mainmenu li {
+    float: left;
+    margin: 0em 1.5em 1.5em 0em;
+
+}
+
+.header {
+    clear: both;
+    text-align: center;
+
+}
+
+.header h1 {
+    font-family: 'Poiret One';
+    text-align: center;
+    color: rgb(52, 95, 108);
+    font-size: 3em;
+}
+
+.header h2 {
+    font-family: 'Fredericka the Great';
+    text-align: center;
+    color: rgb(52, 95, 108);
+}
+
+.header h3 {
+    font-family: 'Fredericka the Great';
+}
+
+.header p {
+    font-family: 'Abhaya Libre';
+    text-align: center;
+    font-size: 1.2em;
+    
+}
+
+.header img {
+    width: 90%;
+}
+
+.header ul {
+    list-style-type: none;
+}
+
+.header li {
+    font-family: 'Abhaya Libre';
+}
+
+.header h4 {
+    font-family: 'Fredericka the Great';
+}
+
+.header a {
+    text-decoration: none;
+     color: rgb(0, 0, 0);
+}
