@@ -51,26 +51,43 @@ h1 {
 
 .mainmenu {
     font-family: 'Fredericka the Great';
-
+    margin:auto;
+    text-align: center;
+    width: 100%;
     }
 
 .mainmenu ul {
     list-style-type: none;
-    padding: 0; 
+    padding: 0;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 3em;
 }
 
 .mainmenu a {
     text-decoration: none;
     color: rgb(52, 95, 108);
-    display: block;
-    te
+    text-align: center;
 }
 
 .mainmenu li {
-    float: left;
+    display: inline;
     margin-right: 2em;
-    text-align: center
+    text-align: center;
 
+}
+
+div.container {
+    margin: auto;
+    text-align: center;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.container img {
+    width: 60%;
 }
 
 .header {
@@ -80,15 +97,15 @@ h1 {
 }
 
 .header h1 {
-    font-family: 'Lobster';
+    font-family: 'Fredericka the Great';
     text-align: center;
     color: rgb(52, 95, 108);
-    font-size: 3em;
+    font-size: 2em;
     
 }
 
 .header h2 {
-    font-family: 'Fredericka the Great';
+    font-family: 'Abhaya Libre';
     text-align: center;
     color: rgb(52, 95, 108);
 }
@@ -105,7 +122,7 @@ h1 {
 }
 
 .header img {
-    width: 50%;
+    width: 70%;
 }
 
 .header ul {
