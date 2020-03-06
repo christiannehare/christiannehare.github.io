@@ -1,0 +1,126 @@
+/*CSS DOCUMENT*/
+@import url('https://fonts.googleapis.com/css?family=Lobster|Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Fredericka+the+Great|Spartan&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.container1 {
+    text-align: center;
+    clear: both; 
+    
+}
+
+h1 {
+    font-family: 'Lobster';
+    text-align: center;
+    color: rgb(52, 95, 108);
+    font-size: 3em;
+    }
+
+.container1 h2 {
+   font-family: 'Fredericka the Great';
+    text-align: center;
+    color: rgb(52, 95, 108);
+    
+}
+
+.container1 h3 {
+    font-family: 'Abhaya Libre';
+    font-style: bold;
+    
+}
+
+.container1 h1 {
+    font-family: 'Lobster';
+    text-align: center;
+    color: rgb(52, 95, 108);
+    font-size: 3em;
+}
+
+.container1 p {
+    font-family: 'Abhaya Libre';
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.container2 {
+    background-color: rgb(207, 248, 255);
+}
+
+.mainmenu {
+    font-family: 'Fredericka the Great';
+
+    }
+
+.mainmenu ul {
+    list-style-type: none;
+    padding: 0; 
+}
+
+.mainmenu a {
+    text-decoration: none;
+    color: rgb(52, 95, 108);
+    display: block;
+    te
+}
+
+.mainmenu li {
+    float: left;
+    margin-right: 2em;
+    text-align: center
+
+}
+
+.header {
+    clear: both;
+    text-align: center;
+
+}
+
+.header h1 {
+    font-family: 'Lobster';
+    text-align: center;
+    color: rgb(52, 95, 108);
+    font-size: 3em;
+    
+}
+
+.header h2 {
+    font-family: 'Fredericka the Great';
+    text-align: center;
+    color: rgb(52, 95, 108);
+}
+
+.header h3 {
+    font-family: 'Abhaya Libre';
+}
+
+.header p {
+    font-family: 'Abhaya Libre';
+    text-align: center;
+    font-size: 1.2em;
+    
+}
+
+.header img {
+    width: 50%;
+}
+
+.header ul {
+    list-style-type: none;
+}
+
+.header li {
+    font-family: 'Abhaya Libre';
+}
+
+.header h4 {
+    font-family: 'Fredericka the Great';
+}
+
+.header a {
+    text-decoration: none;
+     color: rgb(0, 0, 0);
+}
